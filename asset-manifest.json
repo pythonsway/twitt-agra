@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/twitt-agra/static/css/main.f1faf245.css",
+    "main.js": "/twitt-agra/static/js/main.cf34b825.js",
+    "static/js/787.cb88bee8.chunk.js": "/twitt-agra/static/js/787.cb88bee8.chunk.js",
+    "service-worker.js": "/twitt-agra/service-worker.js",
+    "static/media/twitt-agra.png": "/twitt-agra/static/media/twitt-agra.478805ed8e675f7aadb8.png",
+    "index.html": "/twitt-agra/index.html",
+    "main.f1faf245.css.map": "/twitt-agra/static/css/main.f1faf245.css.map",
+    "main.cf34b825.js.map": "/twitt-agra/static/js/main.cf34b825.js.map",
+    "787.cb88bee8.chunk.js.map": "/twitt-agra/static/js/787.cb88bee8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1faf245.css",
+    "static/js/main.cf34b825.js"
+  ]
+}
