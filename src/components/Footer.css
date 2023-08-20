@@ -1,0 +1,14 @@
+.app-name {
+  color: #F5F8FA;  
+  font-weight: lighter;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+blockquote {
+  text-align: left;
+}
+
+blockquote p, cite {
+  margin: 0 0 0 10px;
+}

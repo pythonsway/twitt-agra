@@ -36,8 +36,9 @@
   line-height: 1.5;
   color: #14171A;
   background-color: #E1E8ED;
-  border: 2px solid #14171A;
   border-width: 2px 0 2px 2px;
+  border-style: solid;
+  border-color: #14171A;
 }
 
 #name {
